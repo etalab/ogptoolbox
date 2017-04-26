@@ -1,10 +1,15 @@
 # OGPToolbox-UI
 
-Web user interface for the OGP toolbox.  
-![OGP Toolbox Logo](https://fr.ogpsummit.org/app/uploads/2016/06/Picto-toolbox.png)  
+Web user interface for the OGP Toolbox
+![OGP Toolbox Logo](https://fr.ogpsummit.org/app/uploads/2016/06/Picto-toolbox.png
+
+## Important Notice
+
+The [OGP Toolbox](https://ogptoolbox.org/) was initially developed by [Etalab](http://www.etalab.gouv.fr/) in 2016. Since february 2017, its development has been handed over by a [not-for-profit organization](https://forum.ogptoolbox.org/).
+
+**Warning: _This repository is no more maintained. The development has been transfered to the [OGPToolbox.org's repository](https://framagit.org/ogptoolbox/ogptoolbox-ui)._**
 
 ### **[The OGP Toolbox](https://ogptoolbox.org/) is a collaborative platform to find and share digital tools used throughout the world for open government initiatives.**
-
 
 It's an open source and open data project with complementary resources published here:
 
